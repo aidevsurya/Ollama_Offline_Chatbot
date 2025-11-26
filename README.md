@@ -1,4 +1,4 @@
-#Installation
+# Installation
 Install Required Tools First:
 <b> python 3.10.19 </b>
 <b> virtualenv </b>
@@ -18,7 +18,7 @@ Install Required Tools First:
   <code> python chatbot.py </code>
 
 
-#Testing Demo
+# Testing Demo
 <img src="img1.png">
 <img src="img2.png">
 <img src="img3.png">

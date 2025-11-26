@@ -13,9 +13,9 @@ Install Required Tools First:
 
 <h4> Step 3: </h4>
   Setup Ollama, Install models, Run ollama service:
-  <b> Run: </b> "ollama serve & clear"
-  <b> Run: </b> "ollama pull qwen:0.5b"
-  <b> Run: </b> "ollama run qwen:0.5b"
+  <br><b> Run: </b> "ollama serve & clear"
+  <br><b> Run: </b> "ollama pull qwen:0.5b"
+  <br><b> Run: </b> "ollama run qwen:0.5b"
   
 <h4> Step 4: </h4>
   Run in Terminal:
